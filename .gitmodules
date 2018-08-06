@@ -4,3 +4,15 @@
 [submodule "source/3rd"]
 	path = source/3rd
 	url = https://github.com/OctopusNetwork/3rd
+[submodule "source/libonlogger"]
+	path = source/libonlogger
+	url = https://github.com/OctopusNetwork/libonlogger
+[submodule "source/libonplatform"]
+	path = source/libonplatform
+	url = https://github.com/OctopusNetwork/libonplatform
+[submodule "source/libonencoding"]
+	path = source/libonencoding
+	url = https://github.com/OctopusNetwork/libonencoding
+[submodule "source/libonevent"]
+	path = source/libonevent
+	url = https://github.com/OctopusNetwork/libonevent
