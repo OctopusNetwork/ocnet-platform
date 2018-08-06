@@ -1,0 +1,6 @@
+[submodule "build"]
+	path = build
+	url = https://github.com/OctopusNetwork/build
+[submodule "source/3rd"]
+	path = source/3rd
+	url = https://github.com/OctopusNetwork/3rd
