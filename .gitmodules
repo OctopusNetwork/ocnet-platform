@@ -25,3 +25,6 @@
 [submodule "source/libonhttpd"]
 	path = source/libonhttpd
 	url = https://github.com/OctopusNetwork/libonhttpd.git
+[submodule "source/libonutils"]
+	path = source/libonutils
+	url = https://github.com/OctopusNetwork/libonutils.git
