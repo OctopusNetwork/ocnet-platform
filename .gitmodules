@@ -16,3 +16,12 @@
 [submodule "source/libonevent"]
 	path = source/libonevent
 	url = https://github.com/OctopusNetwork/libonevent
+[submodule "source/libontcpeng"]
+	path = source/libontcpeng
+	url = https://github.com/OctopusNetwork/libontcpeng.git
+[submodule "source/liboncommunication"]
+	path = source/liboncommunication
+	url = https://github.com/OctopusNetwork/liboncommunication.git
+[submodule "source/libonhttpd"]
+	path = source/libonhttpd
+	url = https://github.com/OctopusNetwork/libonhttpd.git
